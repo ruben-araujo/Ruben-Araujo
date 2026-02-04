@@ -9,7 +9,7 @@
 - 🌱 Estou aprendendo [HTML, CSS, JAVASCRIPT, REACT, NODE.JS]
 - 👯 Estou procurando colaborar em projeto [Open Source] que possam agregar conhecimento e prática e em que eu possa ser útil.
 - 📫 Como me encontrar: rubenaraujo097@gmail.com
-- ⚡ Quem sou eu ? Estudante de Análise e Desenvolvimento de Sistemas pela Unopar/Anhaguera atualmente no 4º semestre.
+- ⚡ Quem sou eu ? Formado em ADS pela universidade do Norte do paraná, em constante aprendizado sempre.
 
 ## <h3 align="left"> STACKS </h3>
 <br><br>
