@@ -5,7 +5,7 @@
 ## <h3 align="left">PROGRAMADOR EM CONSTANTE APRENDIZADO! </h3>
 
 ## Um pouco mais Sobre Mim
-- 🔭Atualmente, estou desenvolvendo um projeto de e-commerce chamado Formulário com CSS link"https://github.com/ruben-araujo/Formulario-com-css.git".
+- 🔭Atualmente, estou desenvolvendo um projeto chamado Formulário com CSS link"https://github.com/ruben-araujo/Formulario-com-css.git".
 - 🌱 Estou aprendendo [HTML, CSS, JAVASCRIPT, REACT, NODE.JS]
 - 👯 Estou procurando colaborar em projeto [Open Source] que possam agregar conhecimento e prática e em que eu possa ser útil.
 - 📫 Como me encontrar: rubenaraujo097@gmail.com
