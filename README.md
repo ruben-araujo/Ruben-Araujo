@@ -1,6 +1,6 @@
 <h1 align="left"> Olá Galera! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" widht="30px">, Eu sou Rúben Araújo</h1>
 
-<p align="left"> <img src="![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ruben-araujo&show_icons=true&theme=radical)" /> </p>
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ruben-araujo&show_icons=true&theme=radical)
 
 ## <h3 align="left">PROGRAMADOR EM CONSTANTE APRENDIZADO! </h3>
 
